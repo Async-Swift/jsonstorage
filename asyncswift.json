@@ -25,101 +25,101 @@
         "addressURLs": {
             "naverMapURL": "https://map.naver.com/v5/entry/place/1019717788?c=14396419.6520108,4302029.7423806,15,0,0,0,dh",
             "kakaoMapURL": "http://kko.to/ONFeYdS33"
-        }
-    },
-    "sessions": [
-        {
-            "id": 0,
-            "title": "Opening",
-            "description": [
-                {
-                    "content": "- AsyncSwift Korea 소개"
-                },
-                {
-                    "content": "- AsyncSwift Seminar 002 소개"
-                },
-                {
-                    "content": "- SyncSwift Seminar 소개"
-                }
-            ],
-            "speaker": {
-                "name": "김인섭",
-                "imageURL": "",
-                "role": "Apple Developer Academy @ POSTECH | Jr. Learner",
-                "description": "창조적으로 만드는 모든 일을 좋아합니다"
-            }
         },
-        {
-            "id": 1,
-            "title": "Coupang의 MVVM",
-            "description": [
-                {
-                    "content": "- 왜 MVVM이 나왔을까요? 주요 구조는 어떤 구조가 있을까요? 고민했던 내용을 공유합니다!"
-                },
-                {
-                    "content": "- MVVM 등장의 이유에 대해 알았으니 어떻게 동작하는지 알아보겠습니다!"
+        "sessions": [
+            {
+                "id": 0,
+                "title": "Opening",
+                "description": [
+                    {
+                        "content": "- AsyncSwift Korea 소개"
+                    },
+                    {
+                        "content": "- AsyncSwift Seminar 002 소개"
+                    },
+                    {
+                        "content": "- SyncSwift Seminar 소개"
+                    }
+                ],
+                "speaker": {
+                    "name": "김인섭",
+                    "imageURL": "",
+                    "role": "Apple Developer Academy @ POSTECH | Jr. Learner",
+                    "description": "창조적으로 만드는 모든 일을 좋아합니다"
                 }
-            ],
-            "speaker": {
-                "name": "권문범",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/moonbum.jpg?alt=media&token=829fcdfb-0c17-4743-a6fb-a297293ab9b1",
-                "role": "Coupang | Staff Software Engineer",
-                "description": "오픈 소스 사용 전에 구현 해보는, 직접 구현 하기 전에 앱 구조를 말하는, 앱 구조를 말하기 전에 함수/객체 지향을 논하는, 함수/객체 지향을 논하기 전에 iOS 구조를 공부하는, iOS 구조를 공부하기 전에 자료구조와 알고리즘을 생각하는, 자료구조와 알고리즘을 생각하기 전에 나에게 맞는 플랫폼을 찾는 개발자"
-            }
-        },
-        {
-            "id": 2,
-            "title": "코드리뷰 - 같이 성장하기 위한, 그리고 성공하기 위한 팀이 되기 위한 도구",
-            "description": [
-                {
-                    "content": "- 개발팀으로서, 혹은 팀에 소속된 개인으로서 성장하고 성공하기 위해 코드 리뷰가 많은 도움이 됩니다."
-                },
-                {
-                    "content": "- 코드 리뷰와 관련된 여러 아젠다를 다뤄보려고 합니다."
+            },
+            {
+                "id": 1,
+                "title": "Coupang의 MVVM",
+                "description": [
+                    {
+                        "content": "- 왜 MVVM이 나왔을까요? 주요 구조는 어떤 구조가 있을까요? 고민했던 내용을 공유합니다!"
+                    },
+                    {
+                        "content": "- MVVM 등장의 이유에 대해 알았으니 어떻게 동작하는지 알아보겠습니다!"
+                    }
+                ],
+                "speaker": {
+                    "name": "권문범",
+                    "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/moonbum.jpg?alt=media&token=829fcdfb-0c17-4743-a6fb-a297293ab9b1",
+                    "role": "Coupang | Staff Software Engineer",
+                    "description": "오픈 소스 사용 전에 구현 해보는, 직접 구현 하기 전에 앱 구조를 말하는, 앱 구조를 말하기 전에 함수/객체 지향을 논하는, 함수/객체 지향을 논하기 전에 iOS 구조를 공부하는, iOS 구조를 공부하기 전에 자료구조와 알고리즘을 생각하는, 자료구조와 알고리즘을 생각하기 전에 나에게 맞는 플랫폼을 찾는 개발자"
                 }
-            ],
-            "speaker": {
-                "name": "김우성",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/woosung.png?alt=media&token=915f4851-be69-4d7d-a13f-3c6c5a0a48f5",
-                "role": "29cm",
-                "description": "iOS 개발을 합니다. 더해서 비즈니스를 성공시키기 위해 제 역량으로 가능한 모든 것을 합니다.\n좋은 팀을 만드는데 진심입니다. 개인의 합을 넘어 팀으로 더 큰 성과를 낼 수 있도록 필요한 것들을 셋업하고 구성원을 지원하는 것을 좋아합니다."
-            }
-        },
-        {
-            "id": 3,
-            "title": "내일 지구가 멸망하더라도 테스트는 같게 동작해야한다.",
-            "description": [
-                {
-                    "content": "- XCode에서 테스팅을 진행하는 이유와, 간략한 예제를 통해 테스팅을 진행합니다."
-                },
-                {
-                    "content": "- 테스트 더블이 필요한 상황(네트워크와 무관하게 Response처리를 검사해야하는 경우)을 가정할 때 테스트 방식을 소개합니다."
+            },
+            {
+                "id": 2,
+                "title": "코드리뷰 - 같이 성장하기 위한, 그리고 성공하기 위한 팀이 되기 위한 도구",
+                "description": [
+                    {
+                        "content": "- 개발팀으로서, 혹은 팀에 소속된 개인으로서 성장하고 성공하기 위해 코드 리뷰가 많은 도움이 됩니다."
+                    },
+                    {
+                        "content": "- 코드 리뷰와 관련된 여러 아젠다를 다뤄보려고 합니다."
+                    }
+                ],
+                "speaker": {
+                    "name": "김우성",
+                    "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/woosung.png?alt=media&token=915f4851-be69-4d7d-a13f-3c6c5a0a48f5",
+                    "role": "29cm",
+                    "description": "iOS 개발을 합니다. 더해서 비즈니스를 성공시키기 위해 제 역량으로 가능한 모든 것을 합니다.\n좋은 팀을 만드는데 진심입니다. 개인의 합을 넘어 팀으로 더 큰 성과를 낼 수 있도록 필요한 것들을 셋업하고 구성원을 지원하는 것을 좋아합니다."
                 }
-            ],
-            "speaker": {
-                "name": "김찬우",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/chanwoo.jpg?alt=media&token=ebee8d0d-0417-4b61-a733-c1fcba6448ce",
-                "role": "Coda, iOS 교육 설계",
-                "description": "iOS 개발과 교육 그 사이 어딘가에서 머무르고 있습니다.\n서비스를 통해 세상의 문제를 해결하는 것을 즐거워합니다."
-            }
-        },
-        {
-            "id": 4,
-            "title": "Closing",
-            "description": [
-                {
-                    "content": "- XCode에서 테스팅을 진행하는 이유와, 간략한 예제를 통해 테스팅을 진행합니다."
-                },
-                {
-                    "content": "- 테스트 더블이 필요한 상황(네트워크와 무관하게 Response처리를 검사해야하는 경우)을 가정할 때 테스트 방식을 소개합니다."
+            },
+            {
+                "id": 3,
+                "title": "내일 지구가 멸망하더라도 테스트는 같게 동작해야한다.",
+                "description": [
+                    {
+                        "content": "- XCode에서 테스팅을 진행하는 이유와, 간략한 예제를 통해 테스팅을 진행합니다."
+                    },
+                    {
+                        "content": "- 테스트 더블이 필요한 상황(네트워크와 무관하게 Response처리를 검사해야하는 경우)을 가정할 때 테스트 방식을 소개합니다."
+                    }
+                ],
+                "speaker": {
+                    "name": "김찬우",
+                    "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/chanwoo.jpg?alt=media&token=ebee8d0d-0417-4b61-a733-c1fcba6448ce",
+                    "role": "Coda, iOS 교육 설계",
+                    "description": "iOS 개발과 교육 그 사이 어딘가에서 머무르고 있습니다.\n서비스를 통해 세상의 문제를 해결하는 것을 즐거워합니다."
                 }
-            ],
-            "speaker": {
-                "name": "최미진",
-                "imageURL": "",
-                "role": "Apple Developer Academy @ POSTECH | Jr. Learner",
-                "description": "안녕하세요"
+            },
+            {
+                "id": 4,
+                "title": "Closing",
+                "description": [
+                    {
+                        "content": "- XCode에서 테스팅을 진행하는 이유와, 간략한 예제를 통해 테스팅을 진행합니다."
+                    },
+                    {
+                        "content": "- 테스트 더블이 필요한 상황(네트워크와 무관하게 Response처리를 검사해야하는 경우)을 가정할 때 테스트 방식을 소개합니다."
+                    }
+                ],
+                "speaker": {
+                    "name": "최미진",
+                    "imageURL": "",
+                    "role": "Apple Developer Academy @ POSTECH | Jr. Learner",
+                    "description": "안녕하세요"
+                }
             }
-        }
-    ]
+        ]
+    }
 }
