@@ -43,7 +43,7 @@
             ],
             "speaker": {
                 "name": "김인섭",
-                "imageURL": "",
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/insub.png?alt=media&token=c8f55ade-3acc-478a-b18d-d0b3c0df64f5",
                 "role": "Apple Developer Academy @ POSTECH | Jr. Learner",
                 "description": "창조적으로 만드는 모든 일을 좋아합니다"
             }
@@ -71,7 +71,7 @@
         },
         {
             "id": 2,
-            "title": "Coupang의 MVVM",
+            "title": "Why? MVVM",
             "description": [
                 {
                     "content": "- 왜 MVVM이 나왔을까요? 주요 구조는 어떤 구조가 있을까요? 고민했던 내용을 공유합니다!"
