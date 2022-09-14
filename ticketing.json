@@ -1,7 +1,8 @@
 {
     "currentTicket": {
         "ticketingImageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/ticketing%2Fimage.jpg?alt=media&token=5ff4b960-dfcc-44a4-bf48-c904b8f356c0",
-        "ticketingURL": "https://www.eventbrite.com/e/asyncswift-seminar-002-tickets-408509251167"
+        "ticketingURL": "https://www.eventbrite.com/e/asyncswift-seminar-002-tickets-408509251167",
+        "date": "2022/09/22 22:00"
     },
     "upcomingEvent": {
         "headerTitle": "다가오는 이벤트",
