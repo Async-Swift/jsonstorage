@@ -44,7 +44,7 @@
             "speaker": {
                 "name": "김인섭",
                 "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/insub.png?alt=media&token=c8f55ade-3acc-478a-b18d-d0b3c0df64f5",
-                "role": "Apple Developer Academy @ POSTECH | Jr. Learner",
+                "role": "AsyncSwift Korea | Organizer\nApple Developer Academy @ POSTECH | Jr. Learner",
                 "description": "창조적으로 만드는 모든 일을 좋아합니다"
             }
         },
@@ -137,7 +137,7 @@
             "speaker": {
                 "name": "최미진",
                 "imageURL": "",
-                "role": "Apple Developer Academy @ POSTECH | Jr. Learner",
+                "role": "AsyncSwift Korea | Organizer\nApple Developer Academy @ POSTECH | Jr. Learner",
                 "description": "안녕하세요"
             }
         }
