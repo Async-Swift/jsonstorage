@@ -46,7 +46,7 @@
             ],
             "speaker": {
                 "name": "김인섭",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/insub.png?alt=media&token=c8f55ade-3acc-478a-b18d-d0b3c0df64f5",
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/insub.png?alt=media&token=22a388ca-5fcd-4caf-817a-333713afbe6b",
                 "role": "AsyncSwift Korea | Organizer\nApple Developer Academy @ POSTECH | Jr. Learner",
                 "description": "창조적으로 만드는 모든 일을 좋아합니다"
             }
@@ -67,7 +67,7 @@
             ],
             "speaker": {
                 "name": "김남현",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/namhyun.png?alt=media&token=31e0db9d-b3f4-47b6-81c8-9eac384493b6",
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/namhyun.png?alt=media&token=23301f89-06b1-4c72-adaa-b6b073f72330",
                 "role": "VCNC | CTO",
                 "description": "타다 (VCNC) 창업 때부터 비트윈, 타다를 만들면서 세상에 가치를 만들어내는 것을 좋아하는 개발자입니다. 기술로 문제를 해결하기 위해 끊임없이 노력하고 고민합니다."
             }
@@ -85,7 +85,7 @@
             ],
             "speaker": {
                 "name": "권문범",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/moonbum.jpg?alt=media&token=829fcdfb-0c17-4743-a6fb-a297293ab9b1",
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/moonbum.jpeg?alt=media&token=7644e8bc-6e81-4214-b6f0-c1eea2936c06",
                 "role": "Coupang | Staff Software Engineer",
                 "description": "오픈 소스 사용 전에 구현 해보는, 직접 구현 하기 전에 앱 구조를 말하는, 앱 구조를 말하기 전에 함수/객체 지향을 논하는, 함수/객체 지향을 논하기 전에 iOS 구조를 공부하는, iOS 구조를 공부하기 전에 자료구조와 알고리즘을 생각하는, 자료구조와 알고리즘을 생각하기 전에 나에게 맞는 플랫폼을 찾는 개발자"
             }
@@ -103,7 +103,7 @@
             ],
             "speaker": {
                 "name": "김우성",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/woosung.png?alt=media&token=915f4851-be69-4d7d-a13f-3c6c5a0a48f5",
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/woosung.png?alt=media&token=ef274fa5-611d-4ef7-a50b-c4b562acb281",
                 "role": "29cm",
                 "description": "iOS 개발을 합니다. 더해서 비즈니스를 성공시키기 위해 제 역량으로 가능한 모든 것을 합니다.\n좋은 팀을 만드는데 진심입니다. 개인의 합을 넘어 팀으로 더 큰 성과를 낼 수 있도록 필요한 것들을 셋업하고 구성원을 지원하는 것을 좋아합니다."
             }
@@ -121,7 +121,7 @@
             ],
             "speaker": {
                 "name": "김찬우",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/chanwoo.jpg?alt=media&token=ebee8d0d-0417-4b61-a733-c1fcba6448ce",
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/chanwoo.jpeg?alt=media&token=0c55e8b8-699a-4751-b790-fce2f10d29b1",
                 "role": "Coda, iOS 교육 설계",
                 "description": "iOS 개발과 교육 그 사이 어딘가에서 머무르고 있습니다.\n서비스를 통해 세상의 문제를 해결하는 것을 즐거워합니다."
             }
