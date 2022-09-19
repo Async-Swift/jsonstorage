@@ -131,17 +131,20 @@
             "title": "Closing",
             "description": [
                 {
-                    "content": "- XCode에서 테스팅을 진행하는 이유와, 간략한 예제를 통해 테스팅을 진행합니다."
+                    "content": "AsyncSwift Korea에서는 세미나와 컨퍼런스를 통해 애플 생태계에서 헤엄치는 여러분과 건강한 커뮤니티를 만들어갈 수 있도록 노력하고 있습니다."
                 },
                 {
-                    "content": "- 테스트 더블이 필요한 상황(네트워크와 무관하게 Response처리를 검사해야하는 경우)을 가정할 때 테스트 방식을 소개합니다."
+                    "content": "인스타그램, 트위터, 유튜브를 통해 소식을 받아볼 수 있습니다.\n세미나, 컨퍼런스 뿐만 아니라 슬랙에서도 커뮤니티 활동이 이어지고 있습니다."
+                },
+                {
+                    "content": "곧 다가올 SyncSwift Conference 001에서도 뵐 수 있기를 바랍니다!\n오프라인, 온라인에서 자리를 빛내주신 모든 분들께 감사드립니다."
                 }
             ],
             "speaker": {
                 "name": "최미진",
-                "imageURL": "",
+                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/mijin.jpg?alt=media&token=62c05e4a-1a27-4fcf-bba2-ca24c4ff3264",
                 "role": "AsyncSwift Korea | Organizer\nApple Developer Academy @ POSTECH | Jr. Learner",
-                "description": "안녕하세요"
+                "description": "매일 하나 이상 배우고 경험하는 UXer"
             }
         }
     ]
