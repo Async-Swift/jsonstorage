@@ -1,27 +1,32 @@
-
 {
-    "title": "AsyncSwift Seminar 002",
-    "detailTitle": "AsyncSwift 002",
-    "subject": "생산성 향상[생산썽 향:상]",
-    "type": "세미나",
+    "title": "AsyncSwift Conference 001",
+    "detailTitle": "Conference 001",
+    "subject": "SyncSwift 2022: Nesting",
+    "type": "컨퍼런스",
     "description": [
         {
-            "content": "우리가 동료들과 함께 프로젝트를 더 잘 협업할 수 있는 방법은 무엇일까요?"
+            "content": "SyncSwift 2022: Nesting 은 1년에 단 한 번뿐인, 애플 생태계 구성원들의 가장 큰 축제입니다."
         },
         {
-            "content": "다 함께 고민하고, 다 같이 나아갈 수 있는 생산성 향상이 힌트가 될 수 있지 않을까 생각이 되었습니다."
+            "content": "국내 애플 생태계의 모든 직군(기획자, 개발자, 디자이너, QA Engineer 등)이 모여 각자의 경험과 고민을 다함께 이야기하고, 소통합니다."
         },
         {
-            "content": "같이 잘 나아가고 성장하기 위해 가을의 문턱에서 함께 이야기를 나눠보려합니다."
+            "content": "이번 컨퍼런스의 테마는 'Nesting(둥지를 틀다)' 입니다."
+        },
+        {
+            "content": "국내에서 애플 생태계를 구성하고 있는 다양한 사람들이 모여, 함께 둥지를 틀어보려 합니다."
+        },
+        {
+            "content": "반갑습니다, 환영합니다."
         }
     ],
-    "date": "Thu, September 22, 2022",
-    "startDate": "2022/09/22 19:00",
-    "endDate": "2022/09/22 23:00",
-    "time": "7:00 PM – 10:00 PM KST",
-    "location": "체인지업 그라운드 포항, 2층 미디어월",
+    "date": "Sat, November 12, 2022",
+    "startDate": "2022/11/12 10:00",
+    "endDate": "2022/11/12 18:00",
+    "time": "10:00 AM - 18:00 PM KST",
+    "location": "체인지업 그라운드 포항, 2층 이벤트홀 & 미디어월",
     "address": "청암로 87, 남구, 포항시, 경상북도 790-390",
-    "hashTags": "#리팩토링 #테스트코드 #모듈화 #디자인패턴 #Architecture",
+    "hashTags": "#애플생태계 #커뮤니티 #비즈니스 #디자인 #개발",
     "addressURLs": {
         "naverMapURL": "https://map.naver.com/v5/entry/place/1019717788?c=14396419.6520108,4302029.7423806,15,0,0,0,dh",
         "kakaoMapURL": "http://kko.to/ONFeYdS33"
@@ -29,122 +34,281 @@
     "sessions": [
         {
             "id": 0,
-            "title": "Opening",
+            "title": "[이벤트홀] iOS 디자인이 프로덕트에 미치는 영향력",
             "description": [
                 {
-                    "content": "🎉AsyncSwift Seminar 002 에 오신 모든 분들을 환영합니다🎉"
-                },
-                {
-                    "content": "AsyncSwift Korea 는 정보 나눔 및 교류를 통해 건강한 커뮤니티 문화를 만들어 가고자 시작된 단체입니다."
-                },
-                {
-                    "content": "Seminar 는 연중 수차례 개최되는 정기 행사로 지속적인 모임을 진행하고자 노력합니다."
-                },
-                {
-                    "content": "직군에 상관없이 애플 생태계에 함께 하실 모든 분들의 참여를 환영합니다😊"
+                    "content": "준비중입니다."
                 }
             ],
             "speaker": {
-                "name": "김인섭",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/insub.png?alt=media&token=22a388ca-5fcd-4caf-817a-333713afbe6b",
-                "role": "AsyncSwift Korea | Organizer\nApple Developer Academy @ POSTECH | Jr. Learner",
-                "description": "창조적으로 만드는 모든 일을 좋아합니다"
+                "name": "주협",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/Juhyup.png?raw=true",
+                "role": "코드잇(Codeit) | Product Design",
+                "description": "코드잇에서 프로덕트 디자이너로 일하고 있습니다."
             }
         },
         {
             "id": 1,
-            "title": "Core를 잘 다루는 타다의 상태 관리 기술",
+            "title": "[미디어홀] VIsion을 사용한 여러가지 기능들",
             "description": [
                 {
-                    "content": "- 앱의 안정성 및 개발 생산성은 모든 팀의 관심사입니다."
-                },
-                {
-                    "content": "- 특히 타다는 비즈니스 특성상 실시간 정보를 정확하게 보여주어야 해서 앱의 신뢰도가 중요하고, 타다 팀의 제품 개선 니즈에 맞추어 빠른 피쳐 생산성을 필요로 하는 앱입니다."
-                },
-                {
-                    "content": "- 이번 세션에서는 서비스에서 존재하는 복잡한 상태들을 타다가 다루는 방법에 대해서 소개하려고 합니다."
+                    "content": "준비중입니다."
                 }
             ],
             "speaker": {
-                "name": "김남현",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/namhyun.png?alt=media&token=23301f89-06b1-4c72-adaa-b6b073f72330",
-                "role": "VCNC | CTO",
-                "description": "타다 (VCNC) 창업 때부터 비트윈, 타다를 만들면서 세상에 가치를 만들어내는 것을 좋아하는 개발자입니다. 기술로 문제를 해결하기 위해 끊임없이 노력하고 고민합니다."
+                "name": "신동준",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/dongjun.png?raw=true",
+                "role": "Apple Developer Academy @ POSTECH | Mentee",
+                "description": "AppleAcademy 참여하고있는 예비개발자 입니다 닉네임은 데이비드이고 Swift 및 Flutter 배우고있습니다."
             }
         },
         {
             "id": 2,
-            "title": "Why? MVVM",
+            "title": "[이벤트홀] MVI 패턴과 어울리는 SwiftUI 화면 이동 라이브러리 만들기",
             "description": [
                 {
-                    "content": "- 왜 MVVM이 나왔을까요? 주요 구조는 어떤 구조가 있을까요? 고민했던 내용을 공유합니다!"
-                },
-                {
-                    "content": "- MVVM 등장의 이유에 대해 알았으니 어떻게 동작하는지 알아보겠습니다!"
+                    "content": "준비중입니다."
                 }
             ],
             "speaker": {
-                "name": "권문범",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/moonbum.jpeg?alt=media&token=7644e8bc-6e81-4214-b6f0-c1eea2936c06",
-                "role": "Coupang | Staff Software Engineer",
-                "description": "오픈 소스 사용 전에 구현 해보는, 직접 구현 하기 전에 앱 구조를 말하는, 앱 구조를 말하기 전에 함수/객체 지향을 논하는, 함수/객체 지향을 논하기 전에 iOS 구조를 공부하는, iOS 구조를 공부하기 전에 자료구조와 알고리즘을 생각하는, 자료구조와 알고리즘을 생각하기 전에 나에게 맞는 플랫폼을 찾는 개발자"
+                "name": "문상봉",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/sangbong.jpeg?raw=true",
+                "role": "플리토 | App팀 팀장",
+                "description": "인싸도 못되는 아제이지만, Swift 세계에서만큼은 인싸가 되고 싶은 사람입니다."
             }
         },
         {
             "id": 3,
-            "title": "코드리뷰 - 같이 성장하기 위한, 그리고 성공하기 위한 팀이 되기 위한 도구",
+            "title": "[미디어홀] 위젯 세상으로 가는 입구가 여깁니다",
             "description": [
                 {
-                    "content": "- 개발팀으로서, 혹은 팀에 소속된 개인으로서 성장하고 성공하기 위해 코드 리뷰가 많은 도움이 됩니다."
-                },
-                {
-                    "content": "- 코드 리뷰와 관련된 여러 아젠다를 다뤄보려고 합니다."
+                    "content": "iOS 개발을 하다가 위젯을 개발해야할 때 알아야 할 것들과 실제 위젯을 만들면서 했던 삽질의 포인트들을 처음 위젯 개발하는 분들께 공유드립니다. "
                 }
             ],
             "speaker": {
-                "name": "김우성",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/woosung.png?alt=media&token=ef274fa5-611d-4ef7-a50b-c4b562acb281",
-                "role": "29cm",
-                "description": "iOS 개발을 합니다. 더해서 비즈니스를 성공시키기 위해 제 역량으로 가능한 모든 것을 합니다.\n좋은 팀을 만드는데 진심입니다. 개인의 합을 넘어 팀으로 더 큰 성과를 낼 수 있도록 필요한 것들을 셋업하고 구성원을 지원하는 것을 좋아합니다."
+                "name": "리이오",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/leeo.jpeg?raw=true",
+                "role": "포항공대",
+                "description": "개발 보다는 협업을 좋아하고, 학습보다는 공유를 좋아하는 개발자 입니다."
             }
         },
         {
             "id": 4,
-            "title": "내일 지구가 멸망하더라도 테스트는 같게 동작해야한다.",
+            "title": "[이벤트홀] Tuist... 한번 써봤는데요?",
             "description": [
                 {
-                    "content": "- XCode에서 테스팅을 진행하는 이유와, 간략한 예제를 통해 테스팅을 진행합니다."
-                },
-                {
-                    "content": "- 테스트 더블이 필요한 상황(네트워크와 무관하게 Response처리를 검사해야하는 경우)을 가정할 때 테스트 방식을 소개합니다."
+                    "content": "Tuist가 무엇인지, Tuist를 프로젝트에서 어떻게 활용했는지, 경험을 기반으로 소개해드리고 싶습니다."
                 }
             ],
             "speaker": {
-                "name": "김찬우",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/chanwoo.jpeg?alt=media&token=0c55e8b8-699a-4751-b790-fce2f10d29b1",
-                "role": "Coda, 원티드랩 교육사업팀",
-                "description": "iOS 개발과 교육 그 사이 어딘가에서 머무르고 있습니다.\n서비스를 통해 세상의 문제를 해결하는 것을 즐거워합니다."
+                "name": "이명환",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/myunghwan.jpeg?raw=true",
+                "role": "Apple Developer Academy @ POSTECH | Mentee",
+                "description": "개발과 수영을 좋아합니다."
             }
         },
         {
             "id": 5,
-            "title": "Closing",
+            "title": "[미디어홀] 우리가 만드는 애플",
             "description": [
                 {
-                    "content": "AsyncSwift Korea에서는 세미나와 컨퍼런스를 통해 애플 생태계에서 헤엄치는 여러분과 건강한 커뮤니티를 만들어갈 수 있도록 노력하고 있습니다."
-                },
-                {
-                    "content": "인스타그램, 트위터, 유튜브를 통해 소식을 받아볼 수 있습니다.\n세미나, 컨퍼런스 뿐만 아니라 슬랙에서도 커뮤니티 활동이 이어지고 있습니다."
-                },
-                {
-                    "content": "곧 다가올 SyncSwift Conference 001에서도 뵐 수 있기를 바랍니다!\n오프라인, 온라인에서 자리를 빛내주신 모든 분들께 감사드립니다."
+                    "content": "준비중입니다."
                 }
             ],
             "speaker": {
-                "name": "최미진",
-                "imageURL": "https://firebasestorage.googleapis.com/v0/b/asyncswiftkorea.appspot.com/o/mijin.jpg?alt=media&token=62c05e4a-1a27-4fcf-bba2-ca24c4ff3264",
-                "role": "AsyncSwift Korea | Organizer\nApple Developer Academy @ POSTECH | Jr. Learner",
-                "description": "매일 하나 이상 배우고 경험하는 UXer"
+                "name": "백수영",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/bird.png?raw=true",
+                "role": "포항공대",
+                "description": "준비중입니다."
+            }
+        },
+        {
+            "id": 6,
+            "title": "[이벤트홀] SwiftUI로 앱 서비스 출시까지",
+            "description": [
+                {
+                    "content": "많은 현업에서는 UIKit을 기반으로 앱 서비스를 출시합니다."
+                },
+                {
+                    "content": "기존 레거시 코드, 기능 미지원 등 여러 이유로 SwiftUI 기반 프로젝트가 아직까지 활발하게 진행되고 있지 않은 시기에, 저희는 SwiftUI를 활용해서 앱을 출시 했습니다."
+                },
+                {
+                    "content": "그 과정을 여러분들에게 공유하고 싶습니다."
+                }
+            ],
+            "speaker": {
+                "name": "박건호",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/gunho.png?raw=true",
+                "role": "Apple Developer Academy @ POSTECH | Mentee",
+                "description": "현재 휴학을 하고 애플 디벨로퍼 아카데미에서 활동을 하고 있는 박건호입니다."
+            }
+        },
+        {
+            "id": 7,
+            "title": "[미디어홀] NearCatch Adventure - 인연의 별을 찾아서",
+            "description": [
+                {
+                    "content": "준비중입니다."
+                }
+            ],
+            "speaker": {
+                "name": "이준영",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/junyoung.jpeg?raw=true",
+                "role": "Apple Developer Academy @ POSTECH | Mentee",
+                "description": "안녕하세요. 이로운 세상을 만드는 로운입니다.🌱"
+            }
+        },
+        {
+            "id": 8,
+            "title": "[미디어홀] 점심시간 세션",
+            "description": [
+                {
+                    "content": "준비중입니다."
+                }
+            ],
+            "speaker": {
+                "name": "홍길동",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/bird.png?raw=true",
+                "role": "준비중입니다.",
+                "description": "준비중입니다."
+            }
+        },
+        {
+            "id": 9,
+            "title": "[이벤트홀] 개인앱 개발, 이렇게만 따라하면 실패할 수 있다!",
+            "description": [
+                {
+                    "content": "기획하고, 개발하고, 그리고, 배포하고, 마케팅까지. 다 엉성하지만 그게 개인앱 개발의 매력 아닐까요?"
+                }
+            ],
+            "speaker": {
+                "name": "김찬우",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/chanwoo.jpeg?raw=true",
+                "role": "원티드랩",
+                "description": "개개인을 위한 교육(Education for Each)을 추구하며 살고 있습니다."
+            }
+        },
+        {
+            "id": 10,
+            "title": "[미디어홀] 나만 몰랐던, Xcode Breakpoint를 야무지게 쓰는 법",
+            "description": [
+                {
+                    "content": "얼마 전까지도 클릭으로만 디버깅하던 한 주니어 개발자가 Xcode Breakpoint의 다양한 기능을 통해 효율적으로 디버깅하기 시작하게 된 과정을 소개합니다."
+                }
+            ],
+            "speaker": {
+                "name": "허성진",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/seongjin.jpeg?raw=true",
+                "role": "인포마이닝",
+                "description": "ENTJ | 하고 싶은 걸 다 하고 싶어 바쁜 요즘"
+            }
+        },
+        {
+            "id": 11,
+            "title": "[이벤트홀] 디자이너들이 애플에 열광했던 순간들(부제: WWDC들과 애플 이벤트들을 돌아보며)",
+            "description": [
+                {
+                    "content": "준비중입니다."
+                }
+            ],
+            "speaker": {
+                "name": "김지홍",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/bird.png?raw=true",
+                "role": "준비중입니다.",
+                "description": "개개인을 위한 교육(Education for Each)을 추구하며 살고 있습니다."
+            }
+        },
+        {
+            "id": 12,
+            "title": "[미디어홀] 프로토콜과 some, any 에 대한 고찰",
+            "description": [
+                {
+                    "content": "준비중입니다."
+                }
+            ],
+            "speaker": {
+                "name": "박종호",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/jongho.png?raw=true",
+                "role": "Apple Developer Academy @ POSTECH | Mentee",
+                "description": "iOS 개발자를 꿈꾸고 있는 개발자 지망생입니다. swift 언어에 대해 깊게 이해하고 싶어요."
+            }
+        },
+        {
+            "id": 13,
+            "title": "[이벤트홀] Swift concurrency 적응기",
+            "description": [
+                {
+                    "content": "주니어 개발자로 입사해서 WWDC 2021에 소개된 Swift concurrency에 적응하면서 알게 된 내용들을 공유합니다."
+                }
+            ],
+            "speaker": {
+                "name": "김윤재",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/younjae.jpeg?raw=true",
+                "role": "LINE Plus",
+                "description": "라인에 입사한지 2년차인 주니어 개발자입니다"
+            }
+        },
+        {
+            "id": 14,
+            "title": "[미디어홀] Widget에서 활용하면 빛이 나는 CoreData(feat. Lockscreen)",
+            "description": [
+                {
+                    "content": "AppGroup 과 CoreData Migration 을 통해 앱 뿐만 아니라 위젯과 락스크린에서 데이터를 공유할 수 있습니다."
+                },
+                {
+                    "content": "더 나아가 다음에는 CloudKit 에 대해 알아보도록 하겠습니다! "
+                }
+            ],
+            "speaker": {
+                "name": "김인섭",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/insub.png?raw=true",
+                "role": "Apple Developer Academy @ POSTECH | Mentee",
+                "description": "안녕하세요 Apple Developer Academy @ POSTECH 에서 Jr.Learner 로 공부하고 있고, AsyncSwift 에서 Organizer 로 활동 중인 김인섭입니다 🙇‍♂️"
+            }
+        },
+        {
+            "id": 15,
+            "title": "[이벤트홀] 당신이 TDD를 시도했다가 포기해 봤다면",
+            "description": [
+                {
+                    "content": "모바일 개발자의 TDD가 왜 어려운지, 그 어려움들을 어떻게 극복할 수 있는지, 그리고 왜 그럴 가치가 있는지에 관해 이야기합니다."
+                }
+            ],
+            "speaker": {
+                "name": "류성두",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/sungdo.jpeg?raw=true",
+                "role": "뱅크샐러드",
+                "description": "모두가 쓸 수 있는 앱을 만드는 일에 관심이 많습니다."
+            }
+        },
+        {
+            "id": 16,
+            "title": "[미디어홀] WWDC Student challenge 우승과 앱 기획",
+            "description": [
+                {
+                    "content": "준비중입니다."
+                }
+            ],
+            "speaker": {
+                "name": "이가은",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/gaeun.jpeg?raw=true",
+                "role": "Apple Developer Academy @ POSTECH | Mentee",
+                "description": "흔들리지만, 꾸준히, 그리고 반드시 세상에 필요한 사람이 되기 위해 노력하는 ios 개발자, 이가은입니다."
+            }
+        },
+        {
+            "id": 17,
+            "title": "[이벤트홀] Modular Architecture 시작하기",
+            "description": [
+                {
+                    "content": "Modular Architecture 가 무엇인지? 실제 제품에 어떻게 적용할 수 있는지 소개합니다."
+                }
+            ],
+            "speaker": {
+                "name": "오강훈",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/ganghoon.jpeg?raw=true",
+                "role": "뱅크샐러드",
+                "description": "커피를 좋아하는 Product Engineer"
             }
         }
     ]
