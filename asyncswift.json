@@ -1,5 +1,5 @@
 {
-    "title": "AsyncSwift Conference 001",
+    "title": "SyncSwift Conference 2022",
     "detailTitle": "Conference 001",
     "subject": "SyncSwift 2022: Nesting",
     "type": "컨퍼런스",
@@ -49,7 +49,7 @@
         },
         {
             "id": 1,
-            "title": "[미디어홀] VIsion을 사용한 여러가지 기능들",
+            "title": "[미디어홀] Vision을 사용한 여러가지 기능들",
             "description": [
                 {
                     "content": "준비중입니다."
