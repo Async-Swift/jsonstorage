@@ -37,12 +37,15 @@
             "title": "[이벤트홀] iOS 디자인이 프로덕트에 미치는 영향력",
             "description": [
                 {
-                    "content": "준비중입니다."
+                    "content": "HIG가 프로덕트와 디자이너에게 미치는 다양한 면에 대해 이야기합니다."
+                },
+                {
+                    "content": "올해 새로운 HIG가 발표되었는데 디자인 분야에서 지속적인 영향력을 미칠 수 있을까요?"
                 }
             ],
             "speaker": {
                 "name": "주협",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/Juhyup.png?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/Juhyup.png?raw=true",
                 "role": "코드잇(Codeit) | Product Design",
                 "description": "코드잇에서 프로덕트 디자이너로 일하고 있습니다."
             }
@@ -57,7 +60,7 @@
             ],
             "speaker": {
                 "name": "신동준",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/dongjun.png?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/dongjun.png?raw=true",
                 "role": "Apple Developer Academy @ POSTECH | Mentee",
                 "description": "AppleAcademy 참여하고있는 예비개발자 입니다 닉네임은 데이비드이고 Swift 및 Flutter 배우고있습니다."
             }
@@ -72,7 +75,7 @@
             ],
             "speaker": {
                 "name": "문상봉",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/sangbong.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/sangbong.jpeg?raw=true",
                 "role": "플리토 | App팀 팀장",
                 "description": "인싸도 못되는 아제이지만, Swift 세계에서만큼은 인싸가 되고 싶은 사람입니다."
             }
@@ -87,7 +90,7 @@
             ],
             "speaker": {
                 "name": "리이오",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/leeo.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/leeo.jpeg?raw=true",
                 "role": "포항공대",
                 "description": "개발 보다는 협업을 좋아하고, 학습보다는 공유를 좋아하는 개발자 입니다."
             }
@@ -102,7 +105,7 @@
             ],
             "speaker": {
                 "name": "이명환",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/myunghwan.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/myunghwan.jpeg?raw=true",
                 "role": "Apple Developer Academy @ POSTECH | Mentee",
                 "description": "개발과 수영을 좋아합니다."
             }
@@ -117,7 +120,7 @@
             ],
             "speaker": {
                 "name": "백수영",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/bird.png?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/sunny.png?raw=true",
                 "role": "포항공대",
                 "description": "준비중입니다."
             }
@@ -138,7 +141,7 @@
             ],
             "speaker": {
                 "name": "박건호",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/gunho.png?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/gunho.png?raw=true",
                 "role": "Apple Developer Academy @ POSTECH | Mentee",
                 "description": "현재 휴학을 하고 애플 디벨로퍼 아카데미에서 활동을 하고 있는 박건호입니다."
             }
@@ -153,7 +156,7 @@
             ],
             "speaker": {
                 "name": "이준영",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/junyoung.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/junyoung.jpeg?raw=true",
                 "role": "Apple Developer Academy @ POSTECH | Mentee",
                 "description": "안녕하세요. 이로운 세상을 만드는 로운입니다.🌱"
             }
@@ -168,7 +171,7 @@
             ],
             "speaker": {
                 "name": "홍길동",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/bird.png?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/bird.png?raw=true",
                 "role": "준비중입니다.",
                 "description": "준비중입니다."
             }
@@ -183,7 +186,7 @@
             ],
             "speaker": {
                 "name": "김찬우",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/chanwoo.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/chanwoo.jpeg?raw=true",
                 "role": "원티드랩",
                 "description": "개개인을 위한 교육(Education for Each)을 추구하며 살고 있습니다."
             }
@@ -198,24 +201,24 @@
             ],
             "speaker": {
                 "name": "허성진",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/seongjin.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/seongjin.jpeg?raw=true",
                 "role": "인포마이닝",
                 "description": "ENTJ | 하고 싶은 걸 다 하고 싶어 바쁜 요즘"
             }
         },
         {
             "id": 11,
-            "title": "[이벤트홀] 디자이너들이 애플에 열광했던 순간들(부제: WWDC들과 애플 이벤트들을 돌아보며)",
+            "title": "[이벤트홀] 디자이너들이 애플에 열광했던 순간들",
             "description": [
                 {
-                    "content": "준비중입니다."
+                    "content": "WWDC와 주요 애플 이벤트들을 돌아보며 디자이너들이 왜 애플 디자인에 열광하는지, 무엇에 반응하는지 함께 이야기 나눕니다."
                 }
             ],
             "speaker": {
                 "name": "김지홍",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/bird.png?raw=true",
-                "role": "준비중입니다.",
-                "description": "개개인을 위한 교육(Education for Each)을 추구하며 살고 있습니다."
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/jihong.jpeg?raw=true",
+                "role": "디자인 스펙트럼",
+                "description": "디자이너들이 더 행복하게 디자인할 수 있는 세상을 목표로 합니다."
             }
         },
         {
@@ -228,7 +231,7 @@
             ],
             "speaker": {
                 "name": "박종호",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/jongho.png?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/jongho.png?raw=true",
                 "role": "Apple Developer Academy @ POSTECH | Mentee",
                 "description": "iOS 개발자를 꿈꾸고 있는 개발자 지망생입니다. swift 언어에 대해 깊게 이해하고 싶어요."
             }
@@ -243,7 +246,7 @@
             ],
             "speaker": {
                 "name": "김윤재",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/younjae.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/younjae.jpeg?raw=true",
                 "role": "LINE Plus",
                 "description": "라인에 입사한지 2년차인 주니어 개발자입니다"
             }
@@ -261,7 +264,7 @@
             ],
             "speaker": {
                 "name": "김인섭",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/insub.png?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/insub.jpeg?raw=true",
                 "role": "Apple Developer Academy @ POSTECH | Mentee",
                 "description": "안녕하세요 Apple Developer Academy @ POSTECH 에서 Jr.Learner 로 공부하고 있고, AsyncSwift 에서 Organizer 로 활동 중인 김인섭입니다 🙇‍♂️"
             }
@@ -276,7 +279,7 @@
             ],
             "speaker": {
                 "name": "류성두",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/sungdo.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/sungdo.jpeg?raw=true",
                 "role": "뱅크샐러드",
                 "description": "모두가 쓸 수 있는 앱을 만드는 일에 관심이 많습니다."
             }
@@ -291,7 +294,7 @@
             ],
             "speaker": {
                 "name": "이가은",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/gaeun.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/gaeun.jpeg?raw=true",
                 "role": "Apple Developer Academy @ POSTECH | Mentee",
                 "description": "흔들리지만, 꾸준히, 그리고 반드시 세상에 필요한 사람이 되기 위해 노력하는 ios 개발자, 이가은입니다."
             }
@@ -306,7 +309,7 @@
             ],
             "speaker": {
                 "name": "오강훈",
-                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/conference001Speakers/ganghoon.jpeg?raw=true",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/Conference001/ganghoon.jpeg?raw=true",
                 "role": "뱅크샐러드",
                 "description": "커피를 좋아하는 Product Engineer"
             }
