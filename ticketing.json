@@ -6,7 +6,7 @@
     },
     "upcomingEvent": {
         "headerTitle": "다가오는 이벤트",
-        "title": "AsyncSwift Seminar ",
+        "title": "AsyncSwift Seminar 003",
         "subscription": "2023년 상반기",
         "gradientStartColor": {"red": 239.0, "green":81.0, "blue":56.0, "opacity": 100.0},
         "gradientEndColor": {"red": 239.0, "green":81.0, "blue":56.0, "opacity": 100.0}
