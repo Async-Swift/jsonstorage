@@ -6,9 +6,9 @@
     },
     "upcomingEvent": {
         "headerTitle": "다가오는 이벤트",
-        "title": "AsyncSwift Seminar 003",
-        "subscription": "2023년 상반기",
-        "gradientStartColor": {"red": 239.0, "green":81.0, "blue":56.0, "opacity": 100.0},
-        "gradientEndColor": {"red": 239.0, "green":81.0, "blue":56.0, "opacity": 100.0}
+        "title": "SyncSwift Conference 2023",
+        "subscription": "2023년 10월",
+        "gradientStartColor": {"red": 25.0, "green": 32.0, "blue": 255.0, "opacity": 100.0},
+        "gradientEndColor": {"red": 25.0, "green": 32.0, "blue": 255.0, "opacity": 100.0}
     }
 }
