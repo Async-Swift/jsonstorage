@@ -170,7 +170,7 @@
                 "name": "도라",
                 "imageURL": "",
                 "role": "AsyncSwift | Organizer",
-                "description": "안녕하세요. 이로운 세상을 만드는 로운입니다.🌱"
+                "description": ""
             }
         },
         {
@@ -188,7 +188,7 @@
                 "name": "커리",
                 "imageURL": "",
                 "role": "AsyncSwift | Organizer",
-                "description": "간단한 식사와 음료가 제공될 예정입니다 🍿"
+                "description": ""
             }
         }
     ]
