@@ -45,7 +45,7 @@
             ],
             "speaker": {
                 "name": "데이지",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/sujin.png?raw=true",
                 "role": "AsyncSwift | Organizer",
                 "description": ""
             }
@@ -60,7 +60,7 @@
             ],
             "speaker": {
                 "name": "김민석",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/minseok.png?raw=true",
                 "role": "Tech PM",
                 "description": "4년간 개발자를 위한 서비스를 만드는 기획자로 일했고, 5년차가 되는 올해부터는 프로덕트 품질을 고민하는 Tech PM으로 일하고 있습니다.\n일 잘하고 싶은 마음과 나를 지키고 싶은 욕심이 자주 충돌하지만, 가장 사랑하는 일을 최우선에 두며 삶을 살아가고 있습니다.\n기록이 취미이자 특기입니다."
             }
@@ -75,7 +75,7 @@
             ],
             "speaker": {
                 "name": "강영화",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/younghwa.png?raw=true",
                 "role": "Designer",
                 "description": "토스팀 최초의 Product Designer (Tools) 직무로 일하면서 팀원들이 쓰는 생산성 도구를 디자인했어요.\n'일하는 방식', '행복하게 일하는 방법'에 관심이 많은 디자이너이자 코치, 이것저것 하는 사람입니다.\n인사이트를 공유하는 인스타 계정 @_y.note 운영중이에요. 팔로우 해주세요 🏃"
             }
@@ -90,7 +90,7 @@
             ],
             "speaker": {
                 "name": "Florian Ludot",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/florian.png?raw=true",
                 "role": "Dev Korea | Organizer",
                 "description": "I am the Seoul iOS Meetup dude!\nI chat about code & startups often.\nLove fried chicken & singing.\nYes, I really really talk a lot!"
             }
@@ -105,7 +105,7 @@
             ],
             "speaker": {
                 "name": "김현정",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/hyeonjung.png?raw=true",
                 "role": "우아한현제들 B마트 | 서비스기획팀",
                 "description": "동료들과 손발 합이 딱딱 맞는 문제해결 과정을 즐깁니다.\n목표를 향해 한 배를 타고 가게하는 바를 지향하는 PM입니다."
             }
@@ -120,7 +120,7 @@
             ],
             "speaker": {
                 "name": "Zeri",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/zeri.png?raw=true",
                 "role": "iOS Developer",
                 "description": "다양한 경험을 좋아하는 iOS 개발자입니다."
             }
@@ -135,7 +135,7 @@
             ],
             "speaker": {
                 "name": "박성은",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/seongeun.JPG?raw=true",
                 "role": "북적 스튜디오 | iOS Developer",
                 "description": "도시공학과 전공이지만 도시 개발보다 앱 개발을 선택한 5년차 iOS 개발자입니다.\n사이드 프로젝트로 시작한 북적북적을 더 잘 만들기 위해 최근 1인 개발자가 되었습니다."
             }
@@ -150,7 +150,7 @@
             ],
             "speaker": {
                 "name": "이민지",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/minji.png?raw=true",
                 "role": "Apple Developer Academy @ POSTECH | Mentor",
                 "description": "피상적인 문제만을 보기보다는 본질을 파악하고자 노력하고 다방면에 관심이 많고 도전하는 것을 좋아하는 개발자입니다."
             }
@@ -168,7 +168,7 @@
             ],
             "speaker": {
                 "name": "도라",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/dora.png?raw=true",
                 "role": "AsyncSwift | Organizer",
                 "description": ""
             }
@@ -186,7 +186,7 @@
             ],
             "speaker": {
                 "name": "커리",
-                "imageURL": "",
+                "imageURL": "https://github.com/Async-Swift/jsonstorage/blob/main/Images/Speaker/syncswift2023/cury.png?raw=true",
                 "role": "AsyncSwift | Organizer",
                 "description": ""
             }
