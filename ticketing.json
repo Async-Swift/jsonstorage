@@ -1,8 +1,8 @@
 {
     "currentTicket": {
-        "ticketingImageURL": "https://raw.githubusercontent.com/Async-Swift/jsonstorage/main/Images/Ticket/Conference001/ticket.png",
-        "ticketingURL": "https://festa.io/events/ndCognG2SC4ZEj44osqurB",
-        "date": "2022/11/12 18:00"
+        "ticketingImageURL": "https://github.com/Async-Swift/jsonstorage/blob/d4da4a11c985b10540132e0d7170501044a7c6cd/Images/Ticket/syncswift2023-ticket.png?raw=true",
+        "ticketingURL": "https://smartstore.naver.com/asyncswift/products/9280007233",
+        "date": "2023/10/21 13:00"
     },
     "upcomingEvent": {
         "headerTitle": "다가오는 이벤트",
